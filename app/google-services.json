@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "428859913851",
+    "firebase_url": "https://findem-fe556-default-rtdb.firebaseio.com",
+    "project_id": "findem-fe556",
+    "storage_bucket": "findem-fe556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428859913851:android:efac7be6f9f7d568c994de",
+        "android_client_info": {
+          "package_name": "vishwa.findem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428859913851-na57hrpgjl6a3ue4akpkt51qo75f4ofg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vishwa.findem",
+            "certificate_hash": "c161289d0b9204f0992adf0ba7442267eaff653e"
+          }
+        },
+        {
+          "client_id": "428859913851-h7j56uc3sjm40e9d8h0jsaro8l41ip3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJIHbCQA2taKYGaG77B1KWzZaIp-77jbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428859913851-h7j56uc3sjm40e9d8h0jsaro8l41ip3s.apps.googleusercontent.com",
+              "client_type": 1
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
