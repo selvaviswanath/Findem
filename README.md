@@ -2,6 +2,12 @@
 
 Findem is an Android app that leverages the power of machine learning and facial recognition to identify unattended children by comparing their faces against a registered database of missing children. The app utilizes MLKit and FaceNet, along with custom ML models developed using Python, to achieve accurate and efficient facial recognition.
 
+## Author
+
+- Selva Viswanath
+  - GitHub: [selvaviswanath](https://github.com/selvaviswanath)
+  - Email: selvaviswanath@protonmail.com
+
 ## Table of Contents
 
 - [Introduction](#introduction)
